@@ -2,13 +2,14 @@
 
 ## I'm María
 
-A Frontend Developer Student at Hyper Island 🌟. I love learning daily and collaborating, and I'm always ready to tackle new challenges 💪!
+I'm Frontend Developer 🌟. I love learning daily and collaborating, and I'm always ready to tackle new challenges 💪!
+
+Let's connect! 📩 mvacjar@gmail.com 
 
 ---
 
 ## About Me
 
-- 🔭 Currently working on amazing projects at Hyper Island.
 - 🌱 Always learning something new, whether it's a new technology, tool, or design technique.
 - 👯 Love collaborating with other developers and creatives. Together, we make awesome stuff!
 - ⚡️ Excited by challenges and unafraid of the unknown.
@@ -17,26 +18,17 @@ A Frontend Developer Student at Hyper Island 🌟. I love learning daily and col
 
 ## Technologies and Tools
 
-- **Frontend:** React, JavaScript, HTML, CSS
+- **Code Tools:** React, React Native, Angular, JavaScript, Typescript, Next.js, Node, Express, Nest.js, HTML, CSS, Tailwind, Bootstrap, SQL, MongoDB, AWS, Strapi, Jest.
 - **Design Tools:** Figma, Photoshop
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub, Docker, Kubernete
 - **Other Skills:** Responsive Design, Animations, Accessibility
 
 ---
 
 ## Featured Projects
 
-1. **[ToDo List FullStack](https://github.com/mvacjar/ToDoFullstack)**
-   - In this full-stack ToDo List you can create, update, and delete tasks. And all in a webpage with a cyberpunk design. The aim of this project was to learn more about React, Node, Express, and PostgreSQL.
-
-2. **[Hinder. Social Media Platform](https://github.com/mvacjar/Hinder-App)**
-   - Hinder is a social media platform designed to foster connections among students at Hyper Island. This project aimed to learn more and practice React and Tailwind.
-
-3. **[Amazon Snake Game](https://github.com/mvacjar/amazons-snake)**
-   - Amazon's Snake is the classic game but now with new features! A bomb and 4 different speeds. Check it out! The aim of this project was to learn more about and practice HTML, JS, and CSS.
-  
-4. **[Weather App](https://github.com/mvacjar/react-weather-app)**
-   - With this weather app, you can check your actual weather by geolocation and any city you like to travel to. This project aimed to learn more about and practice React, JS, and CSS.
+1. **[E-Commerce FullStack]((https://inksired.vercel.app/))**
+   - Iomplete website built from scratch, featuring a scalable Next.js frontend optimized for SEO. Implemented with JavaScript, React, and several libraries like Yup, Formik, Lodash, and Luxon for streamlined form handling and data manipulation. Utilized Strapi for content management, Node.js and Express for server-side functionality, and Stripe for payments. Deployed using Vercel and Railway with cloud storage on AWS.
 
 ---
 
@@ -49,11 +41,10 @@ Want to collaborate on a project or just chat about tech and design? Connect wit
 ## A Little More About Me
 
 - 📚👾 Passionate about reading fantasy and platformers.
-- 🥋 Practice karate to stay focused and flexible.
 - 🌍 Love traveling and discovering new cultures and ways of life.
 
 ---
 
-Thanks for visiting my profile! I hope we collaborate and learn together. 🚀
+I hope we collaborate and learn together! 🚀
 
 
