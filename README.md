@@ -1,6 +1,4 @@
-# Hey there! 👋
-
-## I'm María
+# Hey there! I'm María 👋
 
 I'm Frontend Developer 🌟. I love learning daily and collaborating, and I'm always ready to tackle new challenges 💪!
 
